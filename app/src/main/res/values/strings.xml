@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Gelatel v8</string>
+    <string name="tv_take_photo">Reconhecer Alimento</string>
+    <string name="tv_description">Selecione uma imagem ou tire uma nova foto</string>
+    <string name="tv_placeholder">Detecção de Alimentos</string>
+    <string name="tv_login">Login</string>
+    <string name="tv_consultar">Consultar</string>
+
+    <string name="prompt_email">Usuário</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="welcome">Bem-vindo!</string>
+    <string name="invalid_username">Nome de usuário inválido</string>
+    <string name="invalid_password">Nome de usuário e/ou senha inválido(s)</string>
+    <string name="login_failed">"Login falhou"</string>
+    <string name="esqueci">Esqueceu sua senha?</string>
+
+    <string name="semsenha">Login sem senha</string>
+    <string name="error_coding">"Erro de codificação"</string>
+    <string name="error_message">"Erro"</string>
+</resources>

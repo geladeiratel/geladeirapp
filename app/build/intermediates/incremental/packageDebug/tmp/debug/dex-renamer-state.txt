@@ -1,0 +1,7 @@
+#Tue Jul 06 10:44:47 BRT 2021
+base.1=/media/lucio/89cedf23-c997-4dc9-97d1-78996be5f92e/object_detection_exemplo/odml-pathways-main/object-detection/codelab2/android/final/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
+base.0=/media/lucio/89cedf23-c997-4dc9-97d1-78996be5f92e/object_detection_exemplo/odml-pathways-main/object-detection/codelab2/android/final/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
